@@ -58,11 +58,11 @@ export const metadata: Metadata = {
     title: "Amour Editorial",
     description:
       "SOPs and LORs that resonate with authenticity. Created with care by expert editors.",
-    url: "https://your-deployment-url.com",
+    url: "https://task-three-dun.vercel.app",
     type: "website",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/hero-image.png",
         width: 1200,
         height: 630,
         alt: "Amour Editorial",
