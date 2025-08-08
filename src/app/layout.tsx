@@ -74,9 +74,9 @@ export const metadata: Metadata = {
     title: "Amour Editorial",
     description:
       "SOP and LOR editing experts. Helping you tell your story with clarity and emotion.",
-    images: ["/og-image.jpg"],
+    images: ["/hero-image.png"],
   },
-  metadataBase: new URL("https://your-deployment-url.com"),
+  metadataBase: new URL("https://task-three-dun.vercel.app"),
 };
 
 export default function RootLayout({
